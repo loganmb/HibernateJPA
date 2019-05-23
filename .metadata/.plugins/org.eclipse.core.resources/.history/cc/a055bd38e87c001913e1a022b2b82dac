@@ -1,0 +1,10 @@
+package br.com.fiap.hibernatejpa;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="eventos")
+public class Evento {
+
+}

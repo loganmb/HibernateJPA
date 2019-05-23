@@ -1,0 +1,9 @@
+package br.com.fiap.hibernatejpa;
+
+import org.hibernate.annotations.Entity;
+
+@Entity
+@Table(name="eventos")
+public class Evento {
+
+}
