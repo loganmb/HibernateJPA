@@ -20,7 +20,6 @@ INDEX VERSION 1.130+C:\Users\logonrmlocal\Desktop\teste\HibernateJPA\.metadata\.
 1177904427.index
 1480834096.index
 3609888128.index
-3072802493.index
 3000178049.index
 816699452.index
 785750606.index
