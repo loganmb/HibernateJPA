@@ -696,3 +696,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration AppEventos referenc
 2019-05-22 22:21:16,818 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-05-22 22:21:16,818 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-05-22 22:21:16,818 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-22 22:21:16,818 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\logonrmlocal\Desktop\teste\HibernateJPA\Exercicio_ChaveComposta\src\test\resources
